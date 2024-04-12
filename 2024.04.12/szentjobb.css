@@ -3,8 +3,7 @@
     width: 950px;
     background-color: #571C0A;
     box-shadow: 5px 5px 5px #3F1407;
-    text-align: center;
-    margin: 20px;
+    margin:20px auto;
     font-size: 16px;
     text-align: justify;
 }
@@ -31,24 +30,28 @@ hr
 {
     width: 220px;
     margin-left: 20px;
+    float: right;
 }
 
 #kapolna
 {
     width: 220px;
     margin-right: 20px;
+    float: left;
 }
 
 #vonat
 {
     width: 360px;
     margin-left: 20px;
+    float: right;
 }
 
 #kormenet
 {
     width: 320px;
-    margin-right: 20px;    
+    margin-right: 20px; 
+    float: left;   
 }
 
 #forras
