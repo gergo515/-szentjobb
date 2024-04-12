@@ -68,6 +68,6 @@ a{
     color: #e8d4a1;
 }
 
-a.hover{
+a:hover{
     color: cyan;
 }
