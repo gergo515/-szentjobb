@@ -64,3 +64,10 @@ body{
     background-color: #571807;
     color: #e8d4a1;
 }
+a{
+    color: #e8d4a1;
+}
+
+a.hover{
+    color: cyan;
+}
